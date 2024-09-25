@@ -1,8 +1,7 @@
 ---
 layout: home
-title: EMO_Harmonizer
+title: EMO-Harmonizer
 description: Emotion-Driven Melody Harmonization via Melodic Variation and Functional Representation
-permalink: /emo_harmonizer/
 github_link: https://github.com/Yuer867/EMO_Harmonizer
 ---
 
