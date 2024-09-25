@@ -196,12 +196,12 @@ This illustration is not an exact match with the following audio for improved cl
 ## Authors and Affiliations
 
 * Jingyue Huang  
-Research Assistant @ National Taiwan University / Master student @ New York University  
-jh8522@nyu.edu  
+Research Assistant @ National Taiwan University / PhD student @ UC San Diego  
+jih150@ucsd.edu  
  
 * Yi-Hsuan Yang  
 Professor @ National Taiwan University / Joint-Appointed Researcher @ Academia Sinica  
 yhyangtw@ntu.edu.tw, affige@gmail.com  
-[website](https://affige.github.io/)   
+[website](https://affige.github.io/)
 
 [jekyll-organization]: https://github.com/jekyll
